@@ -5,4 +5,4 @@ SELECT	garage_id,
 	FROM charging_sessions
 WHERE user_type = 'Shared'
 GROUP BY garage_id
-ORDER BY num_unique_users DESC
+ORDER BY num_unique_users DESC;
