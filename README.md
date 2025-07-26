@@ -4,6 +4,7 @@ This is an exercise from DATACAMP for SQL beginners.
 ## Overview
 This project analyzes the electric vehicles charging habits using SQL. The databes is taken from kaggle. 
 The goal it´s to demonstrate SQL data analysis basic skills.
+pgadmin4 was used.
 
 ---
 ## Dataset
