@@ -39,6 +39,8 @@ The data import from the csv to pgadmin4 was made with the IMPORT/EXPORT DATA fu
 - **most_popular_shared_start_times**: which hours from the whole week are the most popular to charge the vehicle? top 10
 - **long_duration_shared_users**:  which users have on average charging sessions duration longer than 10 hours?
 
+This  analysis was proposed on the exercise.
+
 ---
 ## Project Structure
 
