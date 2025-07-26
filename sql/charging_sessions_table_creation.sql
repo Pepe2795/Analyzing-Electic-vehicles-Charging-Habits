@@ -1,4 +1,6 @@
-  CREATE TABLE charging_sessions (
+--table creation
+
+CREATE TABLE charging_sessions (
 	  id INT NOT NULL,
 	  garage_id varchar(255) NOT NULL,
 	  user_id varchar (255) NOT NULL,
