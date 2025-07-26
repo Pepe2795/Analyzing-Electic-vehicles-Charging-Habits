@@ -33,7 +33,7 @@ The data import from the csv to pgadmin4 was made with the IMPORT/EXPORT DATA fu
   - weekdays_plugin:	The day of the week that the session started
 
 ---
-## Key Anallyses & Queries
+## Key Analyses & Queries
 
 - **unique_users_per_garage_SHARED**: the objetive of this querie is to find the number of users that has each shared garage
 - **most_popular_shared_start_times**: which hours from the whole week are the most popular to charge the vehicle? top 10
