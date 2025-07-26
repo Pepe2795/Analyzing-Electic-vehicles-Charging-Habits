@@ -37,3 +37,18 @@ pgadmin4 was used.
 - **unique_users_per_garage_SHARED**: the objetive of this querie is to find the number of users that has each shared garage
 - **most_popular_shared_start_times**: which hours from the whole week are the most popular to charge the vehicle? top 10
 - **long_duration_shared_users**:  which users have on average charging sessions duration longer than 10 hours?
+
+---
+## Project Structure
+
+```
+/
+├── data/
+│    └──charging_sessions/
+├── queries.sql
+│       ├── table_creation/
+│       ├── long_duration_shared_users/
+│       ├── most_popular_shared_time/
+│       └── unique_users_per_garage_shared/
+└── README.md
+```
